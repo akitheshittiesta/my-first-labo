@@ -1,2 +1,2 @@
 # my-first-labo
-This is My first labo
+This is My awesome labo
